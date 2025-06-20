@@ -57,7 +57,7 @@ while True:
 - Certifique-se de que o Chrome está atualizado e o sistema está configurado corretamente.
 
 ---
-🧪 Resultado
+## 🧪 Resultado
 Antes: Cadastro manual levava cerca de 1 minuto e 10 segundos por produto.
 Depois: Cadastro automático realiza tudo em cerca de 25 segundos por produto, com mínima intervenção humana.
 
