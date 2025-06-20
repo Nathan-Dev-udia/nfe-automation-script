@@ -1,0 +1,62 @@
+****Incluir cadastro******
+
+//*[@id="5693146171802114035"]/tbody/tr[42]/td[22]/a
+
+
+
+//*[@id="5693146171802114035"]/tbody/tr[43]/td[22]/a
+
+
+//*[@id="5693146171802114035"]/tbody/tr[44]/td[22]/a
+
+
+********criar novo produto***********
+
+//*[@id="P34_NOVOPRODUTO"]
+
+
+********categoria*********************
+
+//*[@id="P4_IDCATEGORIA"] (escrever "A")
+
+
+***********familia****************
+
+//*[@id="P4_IDFAMILIA"] (escrita "pro")
+
+
+**********produto é vendido*******
+
+//*[@id="P4_AOVENDA"]/div/label
+
+**********produto é comprado*******
+
+//*[@id="P4_AOCOMPRA"]/div/label
+
+**********gravar********************
+
+//*[@id="CREATE"]
+
+
+***********descrição***************
+
+//*[@id="P4_XPROD"]
+
+***********aplicar alterações*******
+
+//*[@id="SAVE"]
+
+***********produto colar enter*************
+
+//*[@id="P34_TXPRODUTOREF"]
+
+***********associar************************
+
+//*[@id="CREATE"]
+
+
+
+
+
+
+
