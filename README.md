@@ -2,7 +2,7 @@
 
 **Nfe Automation** é um script de automação desenvolvido em **Python com Selenium** que cadastra automaticamente **produtos e notas fiscais** no sistema **ConnectUse** (Applix Sistema).
 
-Antes da automação, eu precisava cadastrar manualmente os produtos de cada nota fiscal — um processo que levava cerca de 1 minuto e 20 segundos por item. Como as notas chegavam todas de uma vez, com dezenas a centenas de produtos, e eu ainda acumulava outras funções, o trabalho se estendia por quase uma semana inteira, mesmo com ajuda. Com o script, o tempo caiu para 25 segundos por item (ou menos), permitindo concluir tudo em 1 ou 2 dias, com muito menos esforço.
+Antes da automação, o cadastro dos produtos de cada nota fiscal levava cerca de 1 minuto e 20 segundos por item. Como as notas chegavam todas de uma vez, com dezenas ou até centenas de produtos, e ainda havia outras funções a cumprir, o processo tomava quase uma semana inteira — mesmo com ajuda. Com o script, o tempo caiu para 25 segundos por item (ou menos), permitindo concluir tudo em 1 ou 2 dias, com muito menos esforço.
 
 ---
 
