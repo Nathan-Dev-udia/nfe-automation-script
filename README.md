@@ -1,4 +1,6 @@
 # 🤖 Nfe Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat)
 
 **Nfe Automation** é um script de automação desenvolvido em **Python com Selenium** que cadastra automaticamente **produtos e notas fiscais** no sistema **ConnectUse** (Applix Sistema).
 
